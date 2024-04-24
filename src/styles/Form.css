@@ -1,0 +1,27 @@
+.form {
+  gap: 10px;
+  padding: 30px;
+}
+
+button {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.btns {
+  display: flex;
+  gap: 5px;
+}
+
+.element {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container {
+  height: 100vh;
+  max-width: 300px;
+  overflow: scroll;
+  border-right: 5px solid #dddddd;
+}
